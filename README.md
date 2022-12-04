@@ -38,7 +38,7 @@ a
 
 Create the interaction shown in the linked video.
 
-- [**Watch this video to see how it interacts.**](https://youtu.be/-zgfS9warGw)
+- [**Watch this video to see how it interacts.**](https://videos.learntheweb.courses/playlists/web-dev-js/letter-looper.mp4)
 
 ---
 
